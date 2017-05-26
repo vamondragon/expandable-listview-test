@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_temple">TempleActivity</string>
+</resources>
